@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+### Skills
+
+![Javascript React](https://img.shields.io/badge/Javascript-React-13CDD3) ![Javascript React](https://img.shields.io/badge/Javascript-Redux-13D3AD
+
+- Javascript (ES6+), React/Redux/Mobx/Apollo;
+- Progressive Web Apps (PWA), Single page applications (SPA);
+- Modern css: JSS, styled-components, Material UI;
+- Functional, object-oriented, reactive programming;
+- Unit-testing, Jest;
+- CI/CD, Git, Github, Gitlab, Bamboo;
+- Google Cloud Platform, Firebase, Firestore;
+- nodejs, next.js, express.js, graphQL;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootakov)](https://github.com/Bootakov/github-readme-stats) ![AGithub stats](https://github-readme-stats.vercel.app/api?username=bootakov&show_icons=true&theme=default)
+
 <!--
 **Bootakov/Bootakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
