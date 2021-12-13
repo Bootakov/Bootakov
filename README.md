@@ -12,7 +12,10 @@
 - CI/CD, Git, Github, Gitlab, Bamboo;
 - nodejs, express.js, graphQL;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootakov)](https://github.com/Bootakov/github-readme-stats) ![AGithub stats](https://github-readme-stats.vercel.app/api?username=bootakov&show_icons=true&theme=default)
+![AGithub stats](https://github-readme-stats.vercel.app/api?username=bootakov&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootakov)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Bootakov/Bootakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
