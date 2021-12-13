@@ -13,12 +13,6 @@ I am Mikhail. And I am a JavaScript Developer!
 - Unit-testing, Jest;
 - Git, Github;
 
-
-### 📈 My GitHub:
-
-![AGithub stats](https://github-readme-stats.vercel.app/api?username=bootakov&show_icons=true&theme=default)
-
-
 <!--
 **Bootakov/Bootakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
