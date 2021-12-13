@@ -16,7 +16,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootakov)](https://github.com/Bootakov/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bootakov&layout=compact)](https://github.com/bootakov/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bootakov&layout=compact)
 
 
 
