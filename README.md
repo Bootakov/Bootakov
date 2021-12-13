@@ -12,16 +12,14 @@
 - CI/CD, Git, Github, Gitlab, Bamboo;
 - nodejs, express.js, graphQL;
 
-![AGithub stats](https://github-readme-stats.vercel.app/api?username=bootakov&show_icons=true&theme=default)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootakov)](https://github.com/Bootakov/github-readme-stats) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bootakov&layout=compact) -->
 
 ### 📈 My GitHub:
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bootakov&layout=compact)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gotham" alt="Bootakov" />
-<img src="https://github-readme-stats.vercel.app/api?username=Bootakov&show_icons=true&theme=gotham" alt="Bootakov" />
+![AGithub stats](https://github-readme-stats.vercel.app/api?username=bootakov&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bootakov)](https://github.com/Bootakov/github-readme-stats)
+
+
+
 
 
 
